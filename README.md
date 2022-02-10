@@ -3,6 +3,7 @@
 ## 存在的问题
 
 根目录使用 koa 的项目可以接入 consul
+
 子目录 boilerplate 下的 grpc 服务无法接入 consul
 
 ## gprc
